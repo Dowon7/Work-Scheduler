@@ -25,11 +25,6 @@ textarea{
   white-space: pre-wrap;
 }
 
-.time-block{
-  text-align: center;
-  border-radius: 15px;
-}
-
 .row {
   white-space: pre-wrap;
   height: 80px;
@@ -48,17 +43,17 @@ textarea{
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #ff4137;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #5ef85e;
   color: white;
 }
 
 .saveBtn {
-  border-left: 1px solid black;
+  border: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
