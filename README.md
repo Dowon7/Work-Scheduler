@@ -9,7 +9,7 @@ Specifically, we needed dynamically updated HTML and CSS that featured:
 
 ![Demo Gif](assets/Schedule-Demo.gif)
 
-We were provided an HTML and CSS file, and although they required some tweaking, most of the time and effort and spent on creating a Javascript file from scratch.
-The starter code uses Moment.js, and as I am currently just beginning to touch on jQuery and libraries in general, I thought it was best to stick to what was given, even though the rubic mentioned the ability to use other libraries.
+We were provided an HTML and CSS file, and although they required some tweaking, most of the time and effort were spent on creating a Javascript file from scratch.
+The starter code uses Moment.js, and as I am currently just beginning to touch on jQuery and libraries in general, I thought it was best to stick with what was given, even though the rubic mentioned the ability to use other libraries.
 
 [Please try out the scheduler yourself!](https://dowon7.github.io/Work-Scheduler/)
