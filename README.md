@@ -5,7 +5,7 @@ Specifically, we needed dynamically updated HTML and CSS that featured:
 
 * Text that is stored locally and able to be procured at any time
 * Color-coded sections that reflect the current time of day relative to the allocated time slots
-* An interactable save button, that works only when the button is pressed
+* An interactable save button, that saves the current input only when the button is pressed
 
 ![Demo Gif](assets/Schedule-Demo.gif)
 
